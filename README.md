@@ -1,2 +1,2 @@
 # prometheus_install
-Install Prometheus client in Debian/Ubuntu
+Install node_exporter (Prometheus client) in Debian/Ubuntu
